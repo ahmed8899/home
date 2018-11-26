@@ -1,0 +1,37 @@
+* {
+   font-family: 'CMUSerifRoman'; 
+   font-weight: normal; 
+   font-style: normal; ; 
+  text-align: center;}
+
+body {
+  padding: 0.5em;
+  width: 90%;
+  margin: 0 auto;
+  background-image:url("http://1.bp.blogspot.com/-MtAv7uezKyU/URp6sUCJCQI/AAAAAAAARB4/aAF9KLRO-a8/s1600/2174400378ca190627eovl1.jpg");
+  background-size:contain;
+  background-position: center;
+  background-repeat:no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  color: darkred;
+
+}
+
+#content {
+  overflow: auto;
+  color: white; }
+#nav, #feature, #footer {
+  margin: 3%;}
+.column1 {
+  width: 100%;
+  float: center;
+  margin: 1%;
+  height: 100;
+  margin-bottom: 1em;
+  background-color:lightgray;
+  padding: 0.5em;
+}
+main {
+  flex: auto;
+}
