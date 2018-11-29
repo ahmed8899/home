@@ -17,6 +17,9 @@ body {
   color: darkred;
 
 }
+ul{
+   color: lightgray;
+}
 
 #content {
   overflow: auto;
