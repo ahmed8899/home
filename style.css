@@ -26,17 +26,16 @@ body{
 /* Change the color of links on hover */
 .topnav a:hover {
     background-color: #ddd;
-    color: black;
-}
+    color: white
 
 /* Add a color to the active/current link */
 .topnav a.active {
     background-color:#D9ACFC;
-    color: black;
+    color: white;
 }
 
 p{
-  color: black;
+  color: white;
  font-size: 30px;
   
 }
@@ -53,7 +52,7 @@ a{
   font-style: normal; 
   text-align:center;
   font-size: 90px;
-  color: white;
+  color: black;
  
 }
 
@@ -63,7 +62,7 @@ h1{
   font-style: normal; 
   text-align:center;
   font-size: 80px;
-  color: white;
+  color:black;
   text-shadow: 5px 2px #676767;
 }
 
@@ -73,7 +72,7 @@ h2{
   font-style: normal; 
   text-align:center;
   font-size: 80px;
-  color: white;  
+  color: black;  
 }
       #box{
        	background-color: black;
