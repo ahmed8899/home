@@ -32,16 +32,16 @@ body{
 /* Add a color to the active/current link */
 .topnav a.active {
     background-color:#D9ACFC;
-    color: lightgray;
+    color: black;
 }
 
 p{
-  color: lightgray;
+  color: black;
  font-size: 30px;
   
 }
 h4{
-  color: lightgray;
+  color: black;
  font-size: 20px;
   
 }
