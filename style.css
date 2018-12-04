@@ -35,6 +35,7 @@ body{
 }
 
 p{
+ background-color: black;
   color: white;
  font-size: 30px;
   
@@ -44,12 +45,14 @@ h5{
     color: white;	
 }	
 h4{
-  color: black;
+  background-color: white;
+color: black;
  font-size: 20px;
   
 }
 	
 h3{
+ background-color: black;
  font-size: 20px;
   bottom: 20px;
   right: 10px;
@@ -105,8 +108,7 @@ h2{
    
       }
 
-
-		#nav{
-				background-color: white;
-				padding: 1px 5x;
-          opacity: 0.5;}
+#nav{
+background-color: white;
+padding: 1px 5x;
+  opacity: 0.5;}
