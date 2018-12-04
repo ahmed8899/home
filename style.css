@@ -35,7 +35,7 @@ body{
 }
 
 p{
- background-color: black;
+ background-color: yellow;
   color: white;
  font-size: 30px;
   
@@ -43,11 +43,13 @@ p{
 h5{
   background-color:#D9ACFC;
     color: white;	
+	
 }	
 h4{
   background-color: white;
 color: black;
  font-size: 20px;
+
   
 }
 	
